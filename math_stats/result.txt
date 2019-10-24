@@ -1,0 +1,23 @@
+data-1
+
+mean = 2.0585
+median = 2.0533
+Standard deviation = 4.002239529862775
+Assymetry = -0.020111598352104836
+Kurtosis = -0.0103323384154832
+'Looks like Normal dist'
+
+data - 2
+
+Distribution trend is element - r
+Entropy = 7.462789809485906
+'Seems like uniform dist'
+
+data-3
+Median of data_3 = 2.0
+Mean of data_3 = 2.2930875576036867
+Standard deviation = 1.5269614285617348
+Assymetry = 0.6651282228551301
+Kurtosis = 0.3908554881505024
+
+'SHOULD BE Poisson'
