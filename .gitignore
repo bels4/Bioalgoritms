@@ -1,1 +1,7 @@
-projects/project_1/data
+projects/project_2/*.bai
+projects/project_2/*.bam
+projects/project_2/*.???
+projects/project_2/*.??
+projects/project_2/*.vcf
+projects/project_2/*.fastq
+projects/project_2/*.mpileup
