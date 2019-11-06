@@ -5,3 +5,4 @@ projects/project_2/*.??
 projects/project_2/*.vcf
 projects/project_2/*.fastq
 projects/project_2/*.mpileup
+*/.ipynb_checkpoints
