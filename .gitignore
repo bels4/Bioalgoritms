@@ -10,3 +10,4 @@ projects/project_2/*.mpileup
 projects/project_1/data/amp_res_1.fastq
 projects/project_1/data/amp_res_2.fastq
 projects/project_1/data/alignment.bam
+projects/project_1/data/*
